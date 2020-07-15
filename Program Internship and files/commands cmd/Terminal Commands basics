@@ -1,0 +1,31 @@
+# chmod is used for create permissions and various place.
+# ls command is use to listing the things
+# pwd command use as a print working directory
+# cd command is used to change the path of directory
+# mv is used to move
+# cp is used to copy
+# mkdir is used to make the directory
+# rmdir is used to remove a directory
+
+
+
+# How to create User in Kali Linux
+There are 2types of users one is who change prmisssions other is root user.so root is secondary user.
+command to add user:-useradd mohit              to remove:- sudo userdel mohit
+                                                            sudo rm -r /home/mohit
+command to create password:-passwd
+
+# How to install pakages in linux
+To install any app:-apt-get install name          To remove install app:-   apt-get remove name
+To install various packages:-apt-get install name various packages
+For install .deb or any file using command:-dpkg -i name 
+for remove .deb or any file using command:-dpkg -r name
+
+#Apt Cache Command Use
+command 1:apt-cache pkgnames
+command 2:apt-cache search name  
+command 3:aptcache show name
+command 4:apt-cache showpkg name
+command 5:apt-cache stats
+command 6: apt update && apt-get update && apt-get upgrade -y && apt-get dist-upgrade
+

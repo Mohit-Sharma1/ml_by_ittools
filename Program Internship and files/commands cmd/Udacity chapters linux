@@ -1,0 +1,47 @@
+1.)curl command is used to download things from the internet with link
+2.)cowsay is used to write a program with pictures like interface.Command:-sudo apt-get install cowsay
+3.)rm stand for remove
+4.)uptime is used to take timing
+5.)host command used to site take site database.
+6.)unzip command is used to zip the file like unzip name 
+7.)wc is word count program
+8.)diff command is used to different the change
+9.)Tony Monre is wrote the cowsay program
+10.)-T is used to customize the cow tongue
+11.)rm is used to remove and r means recursive f means force
+rm -rf used delete everything
+12.)ping command used to take the data from server like ping 8.8.8.8 this code is google data server.to stop this process use Ctrl+C this is a interrupt signal
+13.)sort is used to prnt sorted output.use Ctrl+D to stop
+14.)bc is the simple calulating program which is a arithmetic program also.to end the file use quit and Ctrl+D only.
+15.)man man command is used to read the manual file where all commands exists.
+16.)nano isshow us bunch of commmands which we want to use.and Ctrl-x command is used to exit the nano command.
+17.)absolute pat in linux is /.
+18.) Tab is used to create a gap in things
+19.) mv is used to move the files
+20.) cp is used to copy the files. e.g:- man mv,man cv etc
+21.)mkdir is used to make a directory
+22.)rmdir is used to remove a directory
+
+
+
+
+
+
+                 The File System Tree
+ 
+The filesystem stores various kinds of objects.
+The two most common are:-
+1.files:-like text files,images,programs,html files etc.
+2.directories:- named containers that can hold files,directories,other object.
+-file name in quotes always.
+-directory name is seprated by slash(/).
+
+
+
+
+
+
+
+
+
+
